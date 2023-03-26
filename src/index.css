@@ -1,0 +1,14 @@
+
+ td{
+ text-align: center;
+ padding: 5px 5px;
+  background-color: rgb(244, 213, 160);
+  border-collapse: separate;
+}
+ a{
+  text-decoration: none;
+  color: black;
+}
+p{
+  font-size: 20px;
+}
